@@ -1,0 +1,19 @@
+.speedDial {
+    position: fixed;
+    right: 3vmax;
+    top: 3vmax;
+  }
+  
+  .speedDialIcon {
+    width: 56px;
+    height: 56px;
+    border-radius: 100%;
+  }
+
+.logoHeader{
+  width: 200px;
+  height: 80px;
+}
+.btnLink{
+  text-decoration: none;
+}
